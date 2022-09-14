@@ -1,0 +1,64 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    
+    border-left: 3px solid #170000;
+    border-bottom: 3px solid #ec0000;
+    border-top: 3px solid #b1cc00;
+    border-right: 3px solid #01ffb3;
+    font-size:34px;
+    height: 55px;
+    width: 456px;
+}
+
+button{
+    border-radius: 20px ;
+    font-size: 40px;
+    background: #af87dd;
+    border-color: rgb(86, 47, 7);
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #51fc02;
+}
+.calculator{ 
+   border-left:7px solid #36ea0e;
+   border-right:7px solid #fbe927;
+   border-top:7px solid rgb(247, 17, 17);
+   border-bottom:7px solid #06c6d7;
+    background-color:rgb(214, 90, 239);
+    padding: 23px;
+    border-radius: 43px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(61, 31, 0);
+    background-color: #e2d008;
+   
+    text-align: center;
+   
+    
+    
+}
+h1:hover{
+    cursor: pointer;
+    
+}
+body{
+    background-image:url("https://png.pngtree.com/background/20210706/original/pngtree-business-technology-background-banner-design-picture-image_188904.jpg") ;
+}
